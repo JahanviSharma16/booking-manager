@@ -1,4 +1,4 @@
-# 📅 Simple Booking Manager
+# 📅 Booking Manager
 
 A modern, full-stack booking management system built with React and Node.js. This project demonstrates fundamental full-stack development skills with a focus on clean code structure, intuitive UI/UX design, and practical implementation.
 
